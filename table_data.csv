@@ -1,0 +1,797 @@
+Code,System,Display
+310147001,http://snomed.info/sct,Pediatric dentistry service
+224576000,http://snomed.info/sct,Nursing assistant
+768826009,http://snomed.info/sct,Crisis counselor (occupation)
+310124002,http://snomed.info/sct,Psychotherapy service
+310081005,http://snomed.info/sct,Professional allied to medicine service
+159035003,http://snomed.info/sct,Dental auxiliary
+788124003,http://snomed.info/sct,Histopathology service (qualifier value)
+408799001,http://snomed.info/sct,Consultant neonatologist (occupation)
+61246008,http://snomed.info/sct,Laboratory medicine specialist
+224564000,http://snomed.info/sct,Community mental health nurse
+708193002,http://snomed.info/sct,Coagulation service
+309445003,http://snomed.info/sct,Anesthetic nurse
+816075004,http://snomed.info/sct,Prosthetic and orthotic service
+224558007,http://snomed.info/sct,Radiotherapy nurse
+24001000087103,http://snomed.info/sct,Pediatric plastic surgery service
+224623000,http://snomed.info/sct,Cuer
+37504001,http://snomed.info/sct,Orthodontist
+310074003,http://snomed.info/sct,Pathology service
+3751000175100,http://snomed.info/sct,Pediatric emergency medical service (qualifier value)
+444912007,http://snomed.info/sct,Hypnotherapist (occupation)
+28229004,http://snomed.info/sct,Optometrist
+310144008,http://snomed.info/sct,General dental surgery service
+158972004,http://snomed.info/sct,House officer
+309388007,http://snomed.info/sct,Vascular surgeon
+224588003,http://snomed.info/sct,Psychotherapist
+73265009,http://snomed.info/sct,Nursing aid
+5275007,http://snomed.info/sct,Auxiliary nurse
+309361002,http://snomed.info/sct,Child and adolescent psychiatrist
+310067008,http://snomed.info/sct,Community pediatric service
+309376005,http://snomed.info/sct,Gastrointestinal surgeon
+81464008,http://snomed.info/sct,Clinical pathologist
+310022001,http://snomed.info/sct,Clinical oncology service
+3621000175101,http://snomed.info/sct,Rheumatology service
+309327004,http://snomed.info/sct,General practitioner registrar
+3430008,http://snomed.info/sct,Radiation therapist
+768730001,http://snomed.info/sct,Home health aide (occupation)
+413331009,http://snomed.info/sct,Voluntary services (qualifier value)
+310080006,http://snomed.info/sct,Pharmacy service
+310151004,http://snomed.info/sct,Gastrointestinal surgery service
+310110001,http://snomed.info/sct,Hospital orthotics service
+310117003,http://snomed.info/sct,Child and adolescent psychiatry service
+708179009,http://snomed.info/sct,Molecular pathology service
+310182000,http://snomed.info/sct,General nurse
+398238009,http://snomed.info/sct,Acting obstetric registrar (occupation)
+224625007,http://snomed.info/sct,Interpreter for British sign language
+309353007,http://snomed.info/sct,Reproductive endocrinologist
+700433006,http://snomed.info/sct,Gastroenterology service
+310164003,http://snomed.info/sct,Plastic surgery service
+792848000,http://snomed.info/sct,Internal medicine service
+1230045006,http://snomed.info/sct,Cardiac diagnostic service (qualifier value)
+310018006,http://snomed.info/sct,Speech-reading training service
+432100008,http://snomed.info/sct,Health coach (occupation)
+310034009,http://snomed.info/sct,Pediatric ITU service
+78703002,http://snomed.info/sct,General surgeon
+309396002,http://snomed.info/sct,Associate specialist
+310094007,http://snomed.info/sct,Community-based occupational therapy service
+40204001,http://snomed.info/sct,Hematologist
+80933006,http://snomed.info/sct,Nuclear medicine specialist
+310136008,http://snomed.info/sct,Social services department duty team
+708194008,http://snomed.info/sct,Blood bank service
+23901000087101,http://snomed.info/sct,Hepatology service
+309341008,http://snomed.info/sct,Blood transfusion doctor
+309328009,http://snomed.info/sct,Ambulatory pediatrician
+1148679005,http://snomed.info/sct,Specialist palliative care service
+63098009,http://snomed.info/sct,Clinical immunologist
+446050000,http://snomed.info/sct,Primary care physician (occupation)
+61345009,http://snomed.info/sct,Otorhinolaryngologist
+224566003,http://snomed.info/sct,Hemodialysis nurse
+159021000,http://snomed.info/sct,Ophthalmic optician
+309382008,http://snomed.info/sct,Ophthalmic surgeon
+309414002,http://snomed.info/sct,Liver dietitian
+394618009,http://snomed.info/sct,Hospital nurse (occupation)
+310155008,http://snomed.info/sct,Colorectal surgery service
+224607000,http://snomed.info/sct,Occupational therapy technical instructor
+224533002,http://snomed.info/sct,MO - Medical officer
+106294002,http://snomed.info/sct,Midwifery personnel
+768839008,http://snomed.info/sct,Consultant (occupation)
+788001008,http://snomed.info/sct,Infectious disease service (qualifier value)
+224532007,http://snomed.info/sct,Senior house officer
+224602006,http://snomed.info/sct,Community-based podiatrist
+471302004,http://snomed.info/sct,Government midwife (occupation)
+734294007,http://snomed.info/sct,Pharmacist prescriber (occupation)
+26071000087103,http://snomed.info/sct,PHCNP - primary health care nurse practitioner
+310091004,http://snomed.info/sct,Community-based dietetics service
+224580005,http://snomed.info/sct,Occupational health service manager
+413294000,http://snomed.info/sct,Community health services (qualifier value)
+708190004,http://snomed.info/sct,Immunology service
+442867008,http://snomed.info/sct,Respiratory therapist (occupation)
+80409005,http://snomed.info/sct,Translator
+309336000,http://snomed.info/sct,Pediatric oncologist
+405277009,http://snomed.info/sct,Resident physician (occupation)
+310126000,http://snomed.info/sct,Breast screening service
+309364005,http://snomed.info/sct,Psychogeriatrician
+310118008,http://snomed.info/sct,Forensic psychiatry service
+409971007,http://snomed.info/sct,Emergency medical services (qualifier value)
+408458006,http://snomed.info/sct,Specialist multidisciplinary team (qualifier value)
+18803008,http://snomed.info/sct,Dermatologist
+310086000,http://snomed.info/sct,Music therapy service
+830149003,http://snomed.info/sct,Clinical neurophysiology service
+224549000,http://snomed.info/sct,Neonatal nurse
+310162004,http://snomed.info/sct,Pancreatic surgery service
+3981000175106,http://snomed.info/sct,Nurse complex case manager
+224565004,http://snomed.info/sct,Renal nurse
+768731002,http://snomed.info/sct,Home helper
+20145008,http://snomed.info/sct,Removable prosthodontist
+61207006,http://snomed.info/sct,Medical pathologist
+309363004,http://snomed.info/sct,Liaison psychiatrist
+721940004,http://snomed.info/sct,Legal medicine specialist (occupation)
+309404006,http://snomed.info/sct,Physiotherapy helper
+310165002,http://snomed.info/sct,Transplant surgery service
+395104009,http://snomed.info/sct,Cancer primary healthcare multidisciplinary team (qualifier value)
+41672002,http://snomed.info/sct,Respiratory disease specialist
+310026003,http://snomed.info/sct,Counseling service
+224573008,http://snomed.info/sct,CN - Charge nurse
+309339007,http://snomed.info/sct,Adult intensive care specialist
+309460000,http://snomed.info/sct,Restorative dentist
+708187005,http://snomed.info/sct,Surgical pathology service (qualifier value)
+310130002,http://snomed.info/sct,Head injury rehabilitation service
+714089006,http://snomed.info/sct,Community midwifery service (qualifier value)
+310084002,http://snomed.info/sct,Dance therapy service
+310177007,http://snomed.info/sct,Cardiac rehabilitation nurse
+309442000,http://snomed.info/sct,Nurse teacher practitioner
+310191001,http://snomed.info/sct,Clinical psychologist
+37154003,http://snomed.info/sct,Periodontist
+1231390004,http://snomed.info/sct,Hand therapy service
+310092006,http://snomed.info/sct,Hospital dietetics service
+394572006,http://snomed.info/sct,Medical secretary (occupation)
+721943002,http://snomed.info/sct,Clinical immunology and allergy specialist (occupation)
+224542009,http://snomed.info/sct,Coronary care nurse
+722352000,http://snomed.info/sct,Vascular medicine service (qualifier value)
+792849008,http://snomed.info/sct,Pediatric clinical genetics service
+133932002,http://snomed.info/sct,Caregiver
+310121005,http://snomed.info/sct,Psychogeriatric service
+309295000,http://snomed.info/sct,Clinical oncologist
+310016005,http://snomed.info/sct,Adult hearing aid service
+1163003002,http://snomed.info/sct,Colorectal cancer screening service
+224572003,http://snomed.info/sct,Nursing sister
+158998005,http://snomed.info/sct,Private nurse
+224606009,http://snomed.info/sct,Technical healthcare occupation
+373654008,http://snomed.info/sct,Medical referral service (qualifier value)
+309401003,http://snomed.info/sct,GP-based physiotherapist
+405279007,http://snomed.info/sct,Attending physician (occupation)
+310161006,http://snomed.info/sct,Orthopedic service
+878786001,http://snomed.info/sct,Operating room technician (occupation)
+309324006,http://snomed.info/sct,Assistant GP
+224537001,http://snomed.info/sct,Accident and Emergency nurse (occupation)
+309340009,http://snomed.info/sct,Pediatric intensive care specialist
+310185003,http://snomed.info/sct,Diabetic liaison nurse
+310098005,http://snomed.info/sct,Hospital physiotherapy service
+28541000087101,http://snomed.info/sct,Musculoskeletal service
+303129000,http://snomed.info/sct,Hospital manager
+309398001,http://snomed.info/sct,Profession allied to medicine
+224590002,http://snomed.info/sct,Play therapist
+310132005,http://snomed.info/sct,Young disabled service
+310017001,http://snomed.info/sct,Pediatric hearing aid service
+699650006,http://snomed.info/sct,Community based physiotherapy service (qualifier value)
+309346003,http://snomed.info/sct,Thoracic physician
+3801000175108,http://snomed.info/sct,Pediatric pulmonology service (qualifier value)
+310011000,http://snomed.info/sct,Aural rehabilitation service
+159004009,http://snomed.info/sct,Nurse - teaching
+722140001,http://snomed.info/sct,Physiotherapy service (qualifier value)
+41904004,http://snomed.info/sct,Medical X-ray technician
+159022007,http://snomed.info/sct,Trainee optician
+310111002,http://snomed.info/sct,Community orthotics service
+159025009,http://snomed.info/sct,Remedial gymnast
+225726006,http://snomed.info/sct,Lactation consultant
+310023006,http://snomed.info/sct,Radiotherapy service
+224547003,http://snomed.info/sct,Intensive therapy nurse
+159026005,http://snomed.info/sct,Speech and language therapist
+45544007,http://snomed.info/sct,Neurosurgeon
+59944000,http://snomed.info/sct,Psychologist
+408798009,http://snomed.info/sct,Consultant pediatrician (occupation)
+11661002,http://snomed.info/sct,Neuropathologist
+23911000087104,http://snomed.info/sct,Medication review service (qualifier value)
+309371000,http://snomed.info/sct,Cardiac surgeon
+720503005,http://snomed.info/sct,Sleep medicine specialist (occupation)
+721942007,http://snomed.info/sct,Cardiovascular perfusionist (occupation)
+310088004,http://snomed.info/sct,Community podiatry service
+6816002,http://snomed.info/sct,Specialized nurse
+158969006,http://snomed.info/sct,Consultant gynecology and obstetrics
+224621003,http://snomed.info/sct,Palantypist
+25941000087102,http://snomed.info/sct,Adult gerontology primary care nurse practitioner (occupation)
+309372007,http://snomed.info/sct,"Ear, nose and throat surgeon"
+310107008,http://snomed.info/sct,Hospital orthoptics service
+224529009,http://snomed.info/sct,Clinical assistant
+224587008,http://snomed.info/sct,Occupational therapy helper
+788123009,http://snomed.info/sct,Radiation oncology service (qualifier value)
+310069006,http://snomed.info/sct,Pediatric oncology service
+158990003,http://snomed.info/sct,Nursing officer
+788122004,http://snomed.info/sct,Sexual health service
+310009009,http://snomed.info/sct,Neonatal audiological screening service
+309375009,http://snomed.info/sct,Pituitary surgeon
+830038007,http://snomed.info/sct,Clinical allergy service
+158974003,http://snomed.info/sct,Clinical medical officer
+310190000,http://snomed.info/sct,Mental health counselor (occupation)
+224586004,http://snomed.info/sct,Domiciliary occupational therapist
+46255001,http://snomed.info/sct,Pharmacist
+303124005,http://snomed.info/sct,Member of mental health review tribunal
+310063007,http://snomed.info/sct,Obstetrics service
+722393008,http://snomed.info/sct,Legal medicine service (qualifier value)
+24101000087102,http://snomed.info/sct,HIV (human immunodeficiency virus) social work service
+700241009,http://snomed.info/sct,Dermatology service (qualifier value)
+56397003,http://snomed.info/sct,Neurologist
+48740002,http://snomed.info/sct,Philologist
+309333008,http://snomed.info/sct,Pediatric nephrologist
+310005003,http://snomed.info/sct,Diagnostic audiology service
+708169007,http://snomed.info/sct,Respiratory therapy service (qualifier value)
+224579007,http://snomed.info/sct,Healthcare service manager
+3781000175109,http://snomed.info/sct,Pediatric infectious disease service (qualifier value)
+80584001,http://snomed.info/sct,Psychiatrist
+372102007,http://snomed.info/sct,RN First Assist
+310031001,http://snomed.info/sct,Family planning service
+159036002,http://snomed.info/sct,ECG technician
+310189009,http://snomed.info/sct,Genetic counselor (occupation)
+768825008,http://snomed.info/sct,Doula (occupation)
+310102002,http://snomed.info/sct,Community-based speech and language therapy service
+309380000,http://snomed.info/sct,Hand surgeon
+309379003,http://snomed.info/sct,Colorectal surgeon
+159028006,http://snomed.info/sct,Trainee remedial therapist
+310152006,http://snomed.info/sct,General GI surgery service
+224574002,http://snomed.info/sct,Ward manager
+23871000087101,http://snomed.info/sct,Adult dermatology service
+224536005,http://snomed.info/sct,Midwifery tutor
+2391000175104,http://snomed.info/sct,Bariatric surgery service (qualifier value)
+309455004,http://snomed.info/sct,Parentcraft sister
+733459009,http://snomed.info/sct,Cardiac rehabilitation service (qualifier value)
+159034004,http://snomed.info/sct,Podiatrist
+224557002,http://snomed.info/sct,Chemotherapy nurse
+309385005,http://snomed.info/sct,Transplant surgeon
+224578004,http://snomed.info/sct,Nursery nurse
+768819009,http://snomed.info/sct,Medically responsible investigator (occupation)
+310099002,http://snomed.info/sct,Child physiotherapy service
+310173006,http://snomed.info/sct,Clinical pharmacologist
+224891009,http://snomed.info/sct,Healthcare services
+722174002,http://snomed.info/sct,Pulmonary medicine service (qualifier value)
+310061009,http://snomed.info/sct,Gynecology service
+309397006,http://snomed.info/sct,Research fellow
+39677007,http://snomed.info/sct,Internal medicine specialist
+59169001,http://snomed.info/sct,Orthopedic technician
+310187006,http://snomed.info/sct,Company nurse
+310160007,http://snomed.info/sct,Ophthalmology service
+721936008,http://snomed.info/sct,Occupation medicine specialist (occupation)
+310000008,http://snomed.info/sct,Casualty service
+830037002,http://snomed.info/sct,Clinical immunology service
+310174000,http://snomed.info/sct,Private doctor
+11911009,http://snomed.info/sct,Nephrologist
+310116007,http://snomed.info/sct,Psychiatry service
+310129007,http://snomed.info/sct,Rehabilitation service
+309383003,http://snomed.info/sct,Pediatric surgeon
+158992006,http://snomed.info/sct,Midwifery sister
+159038001,http://snomed.info/sct,Artificial limb fitter
+224554009,http://snomed.info/sct,Marie Curie nurse
+409975003,http://snomed.info/sct,Certified health education specialist (occupation)
+224555005,http://snomed.info/sct,Pain control nurse
+309367003,http://snomed.info/sct,Obstetrician and gynecologist
+405685006,http://snomed.info/sct,Professional providing staff relief during surgical procedure
+106330007,http://snomed.info/sct,"Philologist, translator AND/OR interpreter"
+36682004,http://snomed.info/sct,Physiotherapist
+309421002,http://snomed.info/sct,Hearing aid dispenser
+66476003,http://snomed.info/sct,Oral pathologist
+159972006,http://snomed.info/sct,Surgical corset fitter
+734863003,http://snomed.info/sct,Prosthodontic service (qualifier value)
+708174004,http://snomed.info/sct,Interventional radiology service (qualifier value)
+408451000,http://snomed.info/sct,Community learning disabilities team (qualifier value)
+310065000,http://snomed.info/sct,Open access service
+158995008,http://snomed.info/sct,Staff midwife
+310100005,http://snomed.info/sct,Play therapy service
+708168004,http://snomed.info/sct,Mental health service
+158980006,http://snomed.info/sct,Dental practitioner - teaching
+224545006,http://snomed.info/sct,Care of the elderly nurse
+310200001,http://snomed.info/sct,Cytology service
+309357008,http://snomed.info/sct,Clinical molecular geneticist
+415506007,http://snomed.info/sct,Scrub nurse (occupation)
+897188002,http://snomed.info/sct,Pediatric hematology service
+706901001,http://snomed.info/sct,Bacteriology service
+1231393002,http://snomed.info/sct,Spirometry service
+49993003,http://snomed.info/sct,Oral surgeon
+714088003,http://snomed.info/sct,Midwifery service (qualifier value)
+309450009,http://snomed.info/sct,Nurse administrator
+21450003,http://snomed.info/sct,Neuropsychiatrist
+24081000087105,http://snomed.info/sct,Human immunodeficiency virus nurse practitioner service
+309369000,http://snomed.info/sct,Cardiothoracic surgeon
+56542007,http://snomed.info/sct,Medical record administrator
+18850004,http://snomed.info/sct,Laboratory hematologist
+705150003,http://snomed.info/sct,Domiciliary physiotherapy service (qualifier value)
+768829002,http://snomed.info/sct,Community dietician (occupation)
+310194009,http://snomed.info/sct,Appliance officer
+409974004,http://snomed.info/sct,Health educator (occupation)
+224541002,http://snomed.info/sct,Nursing continence advisor
+224559004,http://snomed.info/sct,Recovery nurse
+722176000,http://snomed.info/sct,Dentistry service (qualifier value)
+304292004,http://snomed.info/sct,Surgeon
+309459005,http://snomed.info/sct,Healthcare professional grade
+160008000,http://snomed.info/sct,Dental technician
+309454000,http://snomed.info/sct,Student midwife
+3531000175102,http://snomed.info/sct,Geriatric service (qualifier value)
+2351000175106,http://snomed.info/sct,Sports medicine service (qualifier value)
+734920002,http://snomed.info/sct,Diabetes mellitus education service (qualifier value)
+310072004,http://snomed.info/sct,Acute pain service
+159005005,http://snomed.info/sct,Student nurse
+224601004,http://snomed.info/sct,Assistant psychologist
+309412003,http://snomed.info/sct,Music therapist
+310170009,http://snomed.info/sct,Pediatric audiologist
+310024000,http://snomed.info/sct,Colposcopy service
+708196005,http://snomed.info/sct,Hematology service (qualifier value)
+310149003,http://snomed.info/sct,"Ear, nose and throat service"
+310006002,http://snomed.info/sct,Adult diagnostic audiology service
+159039009,http://snomed.info/sct,AT - Audiology technician
+310012007,http://snomed.info/sct,Cochlear implant service
+224535009,http://snomed.info/sct,Registered nurse
+159010009,http://snomed.info/sct,Hospital pharmacist
+66862007,http://snomed.info/sct,Radiologist
+310073009,http://snomed.info/sct,Palliative care service
+24590004,http://snomed.info/sct,Urologist
+310010004,http://snomed.info/sct,Distraction test audiological screening service
+788126001,http://snomed.info/sct,Prosthetic service
+34911000087100,http://snomed.info/sct,Amputation care service (qualifier value)
+159001001,http://snomed.info/sct,Clinic nurse
+710028007,http://snomed.info/sct,Maxillofacial surgery service
+840583002,http://snomed.info/sct,Allied health assistant (occupation)
+310184004,http://snomed.info/sct,Liaison nurse
+158971006,http://snomed.info/sct,Hospital registrar
+310158005,http://snomed.info/sct,Hepatobiliary surgical service
+309334002,http://snomed.info/sct,Pediatric neurologist
+387619007,http://snomed.info/sct,Optician (occupation)
+310062002,http://snomed.info/sct,Pregnancy termination service
+310087009,http://snomed.info/sct,Podiatry service
+309294001,http://snomed.info/sct,Accident and emergency doctor
+788004000,http://snomed.info/sct,Clinical genetics service (qualifier value)
+265939002,http://snomed.info/sct,Medical/dental technicians
+2421000175108,http://snomed.info/sct,Acute care inpatient service (qualifier value)
+310082003,http://snomed.info/sct,Arts therapy services
+224936003,http://snomed.info/sct,General practitioner locum
+224571005,http://snomed.info/sct,Nurse practitioner
+422234006,http://snomed.info/sct,Ophthalmologist (occupation)
+310114005,http://snomed.info/sct,Community surgical fitting service
+310142007,http://snomed.info/sct,Cardiac surgery service
+82296001,http://snomed.info/sct,Pediatrician
+311441001,http://snomed.info/sct,School medical officer
+106293008,http://snomed.info/sct,Nursing personnel
+3761000175103,http://snomed.info/sct,Pediatric endocrinology service (qualifier value)
+310179005,http://snomed.info/sct,Rheumatology nurse specialist
+413854007,http://snomed.info/sct,Circulating nurse (occupation)
+700231006,http://snomed.info/sct,Critical care physician service (qualifier value)
+224544005,http://snomed.info/sct,Family planning nurse
+28411006,http://snomed.info/sct,Neonatologist
+54503009,http://snomed.info/sct,Faith healer
+445451001,http://snomed.info/sct,Nurse case manager (occupation)
+224581009,http://snomed.info/sct,Community nurse manager
+224589006,http://snomed.info/sct,Community-based physiotherapist
+61894003,http://snomed.info/sct,Endocrinologist
+708185002,http://snomed.info/sct,Virology service
+789716007,http://snomed.info/sct,Pediatric otolaryngology service
+309444004,http://snomed.info/sct,Outreach nurse
+310089007,http://snomed.info/sct,Hospital-based podiatry service
+56466003,http://snomed.info/sct,Public health physician
+700232004,http://snomed.info/sct,General medical service
+224551001,http://snomed.info/sct,Industrial nurse
+22731001,http://snomed.info/sct,Orthopedic surgeon
+59058001,http://snomed.info/sct,General physician
+224550000,http://snomed.info/sct,Neurology nurse
+310145009,http://snomed.info/sct,Oral surgery service
+395086005,http://snomed.info/sct,Community specialist palliative care (qualifier value)
+309436004,http://snomed.info/sct,Lymphedema nurse
+159016003,http://snomed.info/sct,Medical radiographer
+310135007,http://snomed.info/sct,SSD customer services
+224546007,http://snomed.info/sct,ICN - Infection control nurse
+80546007,http://snomed.info/sct,Occupational therapist
+224530004,http://snomed.info/sct,Senior registrar
+768837005,http://snomed.info/sct,Hospitalist (occupation)
+878785002,http://snomed.info/sct,Clinical respiratory physiologist
+224620002,http://snomed.info/sct,Human aid to communication
+310133000,http://snomed.info/sct,Swallow clinic
+309441007,http://snomed.info/sct,Nurse tutor
+413299005,http://snomed.info/sct,Early years services (qualifier value)
+224594006,http://snomed.info/sct,Speech and language assistant
+25961008,http://snomed.info/sct,Electroencephalography specialist
+310083008,http://snomed.info/sct,Art therapy service
+1231392007,http://snomed.info/sct,Pediatric orthopedic service
+309410006,http://snomed.info/sct,Arts therapist
+310112009,http://snomed.info/sct,Surgical fitting service
+309381001,http://snomed.info/sct,Hepatobiliary surgeon
+310060005,http://snomed.info/sct,Obstetrics and gynecology service
+159014000,http://snomed.info/sct,Trainee pharmacist
+Code,System,Display
+159007002,http://snomed.info/sct,Community pediatric nurse
+397897005,http://snomed.info/sct,Paramedic (occupation)
+83273008,http://snomed.info/sct,Anatomic pathologist
+19244007,http://snomed.info/sct,Gerodontist
+224584001,http://snomed.info/sct,Behavior therapy assistant
+310001007,http://snomed.info/sct,Anesthetic service
+310122003,http://snomed.info/sct,Rehabilitation psychiatry service
+309435000,http://snomed.info/sct,Podiatry assistant
+310143002,http://snomed.info/sct,Dental surgery service
+708178001,http://snomed.info/sct,Cytogenetics service (qualifier value)
+159040006,http://snomed.info/sct,Pharmacy technician
+420409002,http://snomed.info/sct,Oculoplastic surgeon (occupation)
+309427003,http://snomed.info/sct,Social services occupational therapist
+1231786003,http://snomed.info/sct,Refugee healthcare service (qualifier value)
+309394004,http://snomed.info/sct,General practitioner principal
+158985001,http://snomed.info/sct,Nursing officer - district
+3791000175107,http://snomed.info/sct,Pediatric nephrology service (qualifier value)
+734293001,http://snomed.info/sct,Clinical pharmacist (occupation)
+309360001,http://snomed.info/sct,Rehabilitation physician
+878787005,http://snomed.info/sct,Anesthesia technician
+309350005,http://snomed.info/sct,Diabetologist
+90655003,http://snomed.info/sct,Geriatrics specialist
+309332003,http://snomed.info/sct,Pediatric gastroenterologist
+444933003,http://snomed.info/sct,Home hospice service (qualifier value)
+278032008,http://snomed.info/sct,Preventive service
+40127002,http://snomed.info/sct,Dietitian (general)
+310157000,http://snomed.info/sct,Hand surgery service
+309409001,http://snomed.info/sct,Hospital-based speech and language therapist
+224599001,http://snomed.info/sct,Trained personnel counselor (occupation)
+897187007,http://snomed.info/sct,Sexual assault nurse examiner (occupation)
+224614003,http://snomed.info/sct,Research associate
+158968003,http://snomed.info/sct,Consultant surgeon
+224609002,http://snomed.info/sct,Complementary health worker
+768827000,http://snomed.info/sct,Nutritionist
+224604007,http://snomed.info/sct,Audiometrician
+309331005,http://snomed.info/sct,Pediatric endocrinologist
+312485001,http://snomed.info/sct,Integrated midwife
+224610007,http://snomed.info/sct,Supporting services personnel
+59317003,http://snomed.info/sct,Dental prosthesis maker and repairer
+309323000,http://snomed.info/sct,Partner of general practitioner
+309338004,http://snomed.info/sct,Intensive care specialist
+309335001,http://snomed.info/sct,Pediatric rheumatologist
+310096009,http://snomed.info/sct,Hospital occupational therapy service
+2471000175109,http://snomed.info/sct,Employee health service (qualifier value)
+224593000,http://snomed.info/sct,Community-based speech and language therapist
+1186914001,http://snomed.info/sct,Intellectual disability nurse (occupation)
+158999002,http://snomed.info/sct,Community midwife
+265937000,http://snomed.info/sct,Nursing occupation (occupation)
+224540001,http://snomed.info/sct,Community nurse
+307988006,http://snomed.info/sct,Medical technician
+309349005,http://snomed.info/sct,Clinical physiologist
+708180007,http://snomed.info/sct,Dermatopathology service
+310068003,http://snomed.info/sct,Pediatric neurology service
+22983004,http://snomed.info/sct,Thoracic surgeon
+224591003,http://snomed.info/sct,Play specialist
+310093001,http://snomed.info/sct,Occupational therapy service
+45440000,http://snomed.info/sct,Rheumatologist
+17561000,http://snomed.info/sct,Cardiologist
+789715006,http://snomed.info/sct,Pediatric respiratory therapy service (qualifier value)
+224598009,http://snomed.info/sct,Trained social worker counselor (occupation)
+721937004,http://snomed.info/sct,Preventive medicine specialist (occupation)
+309417009,http://snomed.info/sct,Diabetes dietitian
+106296000,http://snomed.info/sct,Physiotherapist AND/OR occupational therapist
+768832004,http://snomed.info/sct,Case manager (occupation)
+224595007,http://snomed.info/sct,Professional counselor (occupation)
+310186002,http://snomed.info/sct,Nurse psychotherapist
+445449000,http://snomed.info/sct,Acute care hospice service (qualifier value)
+722175001,http://snomed.info/sct,Psychosomatic medicine service (qualifier value)
+309342001,http://snomed.info/sct,Histopathologist
+708172000,http://snomed.info/sct,Cardiac ultrasound service (qualifier value)
+773558007,http://snomed.info/sct,Physical medicine service (qualifier value)
+309368008,http://snomed.info/sct,Breast surgeon
+24430003,http://snomed.info/sct,Physical medicine specialist
+159033005,http://snomed.info/sct,Dietician
+310176003,http://snomed.info/sct,Behavioral therapist nurse
+310172001,http://snomed.info/sct,Audiological physician
+158996009,http://snomed.info/sct,State enrolled nurse
+768732009,http://snomed.info/sct,School health educator
+309386006,http://snomed.info/sct,Trauma surgeon
+310028002,http://snomed.info/sct,Diagnostic investigation service
+711332004,http://snomed.info/sct,Allergy service
+310007006,http://snomed.info/sct,Pediatric diagnostic audiology service
+224552008,http://snomed.info/sct,Oncology nurse
+224585000,http://snomed.info/sct,Drama therapist
+90201008,http://snomed.info/sct,Pedodontist
+309415001,http://snomed.info/sct,Oncology dietitian
+708183009,http://snomed.info/sct,Anatomic pathology service (qualifier value)
+446701002,http://snomed.info/sct,Addiction medicine specialist (occupation)
+309392000,http://snomed.info/sct,Research registrar
+309378006,http://snomed.info/sct,Upper gastrointestinal surgeon
+310137004,http://snomed.info/sct,Stroke service
+45956004,http://snomed.info/sct,Sanitarian
+310008001,http://snomed.info/sct,Audiological screening service
+75271001,http://snomed.info/sct,Professional midwife
+788006003,http://snomed.info/sct,Genetic laboratory service
+310020009,http://snomed.info/sct,Hearing therapy service
+224583007,http://snomed.info/sct,Behavior therapist
+224596008,http://snomed.info/sct,Marriage guidance counselor (occupation)
+310071006,http://snomed.info/sct,Pain management service
+309434001,http://snomed.info/sct,Hospital-based podiatrist
+309391007,http://snomed.info/sct,Visiting specialist registrar
+310104001,http://snomed.info/sct,Child speech and language therapy service
+158967008,http://snomed.info/sct,Consultant physician
+309351009,http://snomed.info/sct,Andrologist
+309418004,http://snomed.info/sct,Audiologist
+421841007,http://snomed.info/sct,Admitting physician (occupation)
+308002005,http://snomed.info/sct,Remedial therapist
+1172950003,http://snomed.info/sct,Massage therapist (occupation)
+310127009,http://snomed.info/sct,Magnetic resonance imaging service
+224597004,http://snomed.info/sct,Trained nurse counselor (occupation)
+310015009,http://snomed.info/sct,Hearing aid service
+706902008,http://snomed.info/sct,Mycology service (qualifier value)
+106291005,http://snomed.info/sct,Dietician AND/OR public health nutritionist
+706903003,http://snomed.info/sct,Mycobacteriology service (qualifier value)
+224531000,http://snomed.info/sct,Registrar
+310103007,http://snomed.info/sct,Hospital speech and language therapy service
+3771000175106,http://snomed.info/sct,Pediatric gastroenterology service (qualifier value)
+310192008,http://snomed.info/sct,Educational psychologist
+283875005,http://snomed.info/sct,Parkinson's disease nurse
+159006006,http://snomed.info/sct,Dental nurse
+57654006,http://snomed.info/sct,Fixed prosthodontist
+310002000,http://snomed.info/sct,Assessment service
+224543004,http://snomed.info/sct,Diabetic nurse
+40570005,http://snomed.info/sct,Interpreter
+224577009,http://snomed.info/sct,HCA - Healthcare assistant
+310150003,http://snomed.info/sct,Endocrine surgery service
+309428008,http://snomed.info/sct,Orthotist
+309439006,http://snomed.info/sct,Clinical nurse teacher
+26369006,http://snomed.info/sct,Public health nurse
+309413008,http://snomed.info/sct,Renal dietitian
+76166008,http://snomed.info/sct,Practical aid (pharmacy)
+79898004,http://snomed.info/sct,Auxiliary midwife
+310013002,http://snomed.info/sct,Adult cochlear implant service
+310141000,http://snomed.info/sct,Thoracic surgery service
+840585009,http://snomed.info/sct,Postpartum service
+1163004008,http://snomed.info/sct,Hyperbaric medicine service (qualifier value)
+71838004,http://snomed.info/sct,Gastroenterologist
+23941000087103,http://snomed.info/sct,Narcotic addiction service
+158997000,http://snomed.info/sct,District nurse
+310180008,http://snomed.info/sct,Continence nurse
+28544002,http://snomed.info/sct,Medical biochemist
+309390008,http://snomed.info/sct,Hospital consultant
+6868009,http://snomed.info/sct,Hospital administrator
+422140007,http://snomed.info/sct,Medical ophthalmologist (occupation)
+310128004,http://snomed.info/sct,Computerized tomography service
+224626008,http://snomed.info/sct,Interpreter for Signs supporting English
+310193003,http://snomed.info/sct,Coroner
+309420001,http://snomed.info/sct,Audiological scientist
+310138009,http://snomed.info/sct,Surgical service
+309400002,http://snomed.info/sct,Domiciliary physiotherapist
+788121006,http://snomed.info/sct,Clinical immunology and allergy service
+1186716007,http://snomed.info/sct,Intellectual disability psychiatrist (occupation)
+309393005,http://snomed.info/sct,General practitioner grade
+450044741000087104,http://snomed.info/sct,Acupuncturist (occupation)
+1231391000,http://snomed.info/sct,Colonoscopy service (qualifier value)
+309399009,http://snomed.info/sct,Hospital dietitian
+310175004,http://snomed.info/sct,Agency nurse
+1231394008,http://snomed.info/sct,Pediatric urology service
+708191000,http://snomed.info/sct,Toxicology service
+310115006,http://snomed.info/sct,Public health service
+309359006,http://snomed.info/sct,Palliative care physician
+224600003,http://snomed.info/sct,Psychoanalyst
+310019003,http://snomed.info/sct,Tinnitus management service
+303133007,http://snomed.info/sct,Responsible medical officer
+309411005,http://snomed.info/sct,Dance therapist
+310146005,http://snomed.info/sct,Orthodontics service
+159003003,http://snomed.info/sct,School nurse
+415075003,http://snomed.info/sct,Perioperative nurse (occupation)
+159027001,http://snomed.info/sct,Orthoptist
+788009005,http://snomed.info/sct,Nuclear medicine service
+23951000087100,http://snomed.info/sct,Opioid dependence service
+449161006,http://snomed.info/sct,Physician assistant (occupation)
+768834003,http://snomed.info/sct,Disease manager (occupation)
+309362009,http://snomed.info/sct,Forensic psychiatrist
+310140004,http://snomed.info/sct,Cardiothoracic surgery service
+1163002007,http://snomed.info/sct,Electrocardiography service (qualifier value)
+429577009,http://snomed.info/sct,Patient advocate (person)
+159002008,http://snomed.info/sct,Practice nurse
+309356004,http://snomed.info/sct,Clinical cytogeneticist
+443090005,http://snomed.info/sct,Podiatric surgeon (occupation)
+736622005,http://snomed.info/sct,Aboriginal health service (qualifier value)
+310171008,http://snomed.info/sct,Immunopathologist
+788005004,http://snomed.info/sct,Neurology service
+420678001,http://snomed.info/sct,Retinal surgeon (occupation)
+708182004,http://snomed.info/sct,Histology service (qualifier value)
+309395003,http://snomed.info/sct,Hospital specialist
+2461000175101,http://snomed.info/sct,Pulmonary rehabilitation service (qualifier value)
+158993001,http://snomed.info/sct,Nursing sister (theatre)
+159019005,http://snomed.info/sct,Trainee radiographer
+2451000175103,http://snomed.info/sct,Perinatology service (qualifier value)
+310003005,http://snomed.info/sct,Child assessment service
+68867008,http://snomed.info/sct,Public health dentist
+310025004,http://snomed.info/sct,Complementary therapy service
+309416000,http://snomed.info/sct,Pediatric dietitian
+224538006,http://snomed.info/sct,Triage nurse
+788127005,http://snomed.info/sct,Child health service
+23891000087102,http://snomed.info/sct,Adult hematology service
+310188001,http://snomed.info/sct,Hospital midwife
+310066004,http://snomed.info/sct,Pediatric service
+224575001,http://snomed.info/sct,Nursing team leader
+13580004,http://snomed.info/sct,School dental assistant
+9371000175105,http://snomed.info/sct,Adolescent medicine specialist
+224560009,http://snomed.info/sct,Stomatherapist
+768828005,http://snomed.info/sct,Epidemiologist
+310030000,http://snomed.info/sct,Endoscopy service
+159012001,http://snomed.info/sct,Industrial pharmacist
+309329001,http://snomed.info/sct,Community pediatrician
+60008001,http://snomed.info/sct,Public health nutritionist
+158979008,http://snomed.info/sct,Dental general practitioner
+708171007,http://snomed.info/sct,Vascular ultrasound service
+309326008,http://snomed.info/sct,Deputizing general practitioner
+309377001,http://snomed.info/sct,General gastrointestinal surgeon
+398130009,http://snomed.info/sct,Medical student (occupation)
+700435004,http://snomed.info/sct,Clinical physiology service
+788125002,http://snomed.info/sct,Addiction service
+1230046007,http://snomed.info/sct,Cervical cancer screening service
+309402005,http://snomed.info/sct,Hospital-based physiotherapist
+159041005,http://snomed.info/sct,Trainee medical technician
+44652006,http://snomed.info/sct,Pharmaceutical assistant
+310032008,http://snomed.info/sct,Intensive care service
+76231001,http://snomed.info/sct,Osteopath
+721938009,http://snomed.info/sct,Tropical medicine specialist (occupation)
+310021008,http://snomed.info/sct,Assistive listening device service
+76899008,http://snomed.info/sct,Infectious disease specialist
+24291000087104,http://snomed.info/sct,Geriatric chronic pain management service
+700434000,http://snomed.info/sct,Endocrinology service (qualifier value)
+788003006,http://snomed.info/sct,Nephrology service
+721939001,http://snomed.info/sct,Vascular medicine specialist
+309354001,http://snomed.info/sct,Thyroidologist
+310106004,http://snomed.info/sct,Orthoptics service
+1230044005,http://snomed.info/sct,Cardiac specialist nurse service
+68950000,http://snomed.info/sct,Prosthodontist
+225727002,http://snomed.info/sct,Midwife counselor (occupation)
+158987009,http://snomed.info/sct,Nursing officer - division
+708188000,http://snomed.info/sct,Serology service (qualifier value)
+310181007,http://snomed.info/sct,Contact tracing nurse
+224592005,http://snomed.info/sct,Play leader
+158975002,http://snomed.info/sct,Medical practitioner - teaching
+24011000087101,http://snomed.info/sct,Vascular imaging service (qualifier value)
+106289002,http://snomed.info/sct,Dentist
+700221004,http://snomed.info/sct,Care of elderly service
+309366007,http://snomed.info/sct,Rehabilitation psychiatrist
+158977005,http://snomed.info/sct,Dental administrator
+310512001,http://snomed.info/sct,Medical oncologist
+788128000,http://snomed.info/sct,Critical care medicine service
+158965000,http://snomed.info/sct,Medical practitioner
+708170008,http://snomed.info/sct,Nursing service
+22515006,http://snomed.info/sct,Medical assistant
+763292005,http://snomed.info/sct,Radiation oncologist (occupation)
+310153001,http://snomed.info/sct,Upper gastrointestinal surgery service
+309403000,http://snomed.info/sct,Private physiotherapist
+309330006,http://snomed.info/sct,Pediatric cardiologist
+309374008,http://snomed.info/sct,Thyroid surgeon
+304291006,http://snomed.info/sct,Bereavement counselor (occupation)
+789714005,http://snomed.info/sct,Pediatric rheumatology service (qualifier value)
+24051000087102,http://snomed.info/sct,Breast surgical oncology service (qualifier value)
+224603001,http://snomed.info/sct,Foot care worker
+14698002,http://snomed.info/sct,Medical microbiologist
+224569005,http://snomed.info/sct,Nurse grade
+309419007,http://snomed.info/sct,Hearing therapist
+408452007,http://snomed.info/sct,Behavioral intervention team
+734862008,http://snomed.info/sct,Endodontic service (qualifier value)
+310033003,http://snomed.info/sct,Adult ITU service
+224534008,http://snomed.info/sct,"Health visitors, nurses and midwives"
+309440008,http://snomed.info/sct,Community practice nurse teacher
+310105000,http://snomed.info/sct,Optometry service
+24271000087103,http://snomed.info/sct,Adult chronic pain management service (qualifier value)
+78729002,http://snomed.info/sct,Diagnostic radiologist
+309384009,http://snomed.info/sct,Pancreatic surgeon
+309373002,http://snomed.info/sct,Endocrine surgeon
+405684005,http://snomed.info/sct,Professional initiating surgical case
+309355000,http://snomed.info/sct,Clinical geneticist
+24141000087104,http://snomed.info/sct,Spine orthopedic surgery service (qualifier value)
+404940000,http://snomed.info/sct,Physiotherapist technical instructor (occupation)
+310029005,http://snomed.info/sct,Domiciliary visit service
+158984002,http://snomed.info/sct,Nursing officer - region
+224624006,http://snomed.info/sct,Lipspeaker
+158988004,http://snomed.info/sct,Nurse education director
+310148006,http://snomed.info/sct,Restorative dentistry service
+49203003,http://snomed.info/sct,Dispensing optician
+309446002,http://snomed.info/sct,Nurse manager
+26042002,http://snomed.info/sct,Dental hygienist
+310095008,http://snomed.info/sct,Social services occupational therapy service
+708175003,http://snomed.info/sct,Diagnostic imaging service (qualifier value)
+43702002,http://snomed.info/sct,Occupational health nurse
+50149000,http://snomed.info/sct,Endodontist
+722424008,http://snomed.info/sct,Physical medicine and rehabilitation service (qualifier value)
+431051000124102,http://snomed.info/sct,Dialysis service (qualifier value)
+224615002,http://snomed.info/sct,Research nurse
+159011008,http://snomed.info/sct,Retail pharmacist
+309443005,http://snomed.info/sct,Nurse lecturer practitioner
+310085001,http://snomed.info/sct,Drama therapy service
+224548008,http://snomed.info/sct,Learning disabilities nurse
+310163009,http://snomed.info/sct,Pediatric surgical service
+310169008,http://snomed.info/sct,Ultrasonography service
+83685006,http://snomed.info/sct,Gynecologist
+309296004,http://snomed.info/sct,Family planning doctor
+1186717003,http://snomed.info/sct,Intellectual disability psychiatry service
+159018002,http://snomed.info/sct,Therapeutic radiographer
+310178002,http://snomed.info/sct,Genitourinary nurse
+158966004,http://snomed.info/sct,Medical administrator - national
+310079008,http://snomed.info/sct,Neuropathology service
+106292003,http://snomed.info/sct,Professional nurse
+11935004,http://snomed.info/sct,Obstetrician
+309429000,http://snomed.info/sct,Surgical fitter
+310078000,http://snomed.info/sct,Medical microbiology service
+310156009,http://snomed.info/sct,General surgical service
+416160000,http://snomed.info/sct,Fellow of American Academy of Osteopathy (occupation)
+741073001,http://snomed.info/sct,Neonatal intensive care service (qualifier value)
+792847005,http://snomed.info/sct,Emergency ambulance service (qualifier value)
+830039004,http://snomed.info/sct,Genitourinary medicine service (qualifier value)
+733921009,http://snomed.info/sct,Transplant medicine service (qualifier value)
+3842006,http://snomed.info/sct,Chiropractor
+26091000087104,http://snomed.info/sct,Public health nurse practitioner
+224608005,http://snomed.info/sct,Administrative healthcare staff
+159017007,http://snomed.info/sct,Diagnostic radiographer
+309389004,http://snomed.info/sct,Medical practitioner grade
+444913002,http://snomed.info/sct,Diabetes mellitus service (qualifier value)
+310004004,http://snomed.info/sct,Audiological service
+310014008,http://snomed.info/sct,Pediatric cochlear implant service
+405278004,http://snomed.info/sct,Certified registered nurse anesthetist (occupation)
+158994007,http://snomed.info/sct,Staff nurse
+397903001,http://snomed.info/sct,Staff grade obstetrician (occupation)
+310076001,http://snomed.info/sct,Clinical biochemistry service
+1136421000168109,http://snomed.info/sct,Sleep medicine service
+309437008,http://snomed.info/sct,Community learning disabilities nurse
+309345004,http://snomed.info/sct,Chest physician
+309453006,http://snomed.info/sct,Registered midwife
+310123008,http://snomed.info/sct,Psychology service
+700436003,http://snomed.info/sct,Clinical pharmacology service (qualifier value)
+309358003,http://snomed.info/sct,Genitourinary medicine physician
+224930009,http://snomed.info/sct,Services
+158989007,http://snomed.info/sct,Occupational health nursing officer
+309347007,http://snomed.info/sct,Clinical hematologist
+310125001,http://snomed.info/sct,Radiology service
+158983008,http://snomed.info/sct,Nurse administrator - national
+85733003,http://snomed.info/sct,General pathologist
+158973009,http://snomed.info/sct,Occupational physician
+310064001,http://snomed.info/sct,Occupational health service
+840586005,http://snomed.info/sct,Neonatal service
+223366009,http://snomed.info/sct,Healthcare professional
+224570006,http://snomed.info/sct,Clinical nurse specialist
+397908005,http://snomed.info/sct,Staff grade practitioner (occupation)
+158978000,http://snomed.info/sct,Dental consultant
+310101009,http://snomed.info/sct,Speech and language therapy service
+310131003,http://snomed.info/sct,Community rehabilitation service
+1163054002,http://snomed.info/sct,Gastroscopy service (qualifier value)
+303134001,http://snomed.info/sct,Independent doctor
+310108003,http://snomed.info/sct,Community orthoptics service
+1421009,http://snomed.info/sct,Specialized surgeon
+708173005,http://snomed.info/sct,Obstetric ultrasound service (qualifier value)
+722170006,http://snomed.info/sct,Chiropractic service (qualifier value)
+116154003,http://snomed.info/sct,Patient
+309352002,http://snomed.info/sct,Neuroendocrinologist
+224556006,http://snomed.info/sct,Palliative care nurse
+789718008,http://snomed.info/sct,Cardiology service (qualifier value)
+788002001,http://snomed.info/sct,Adult mental health service (qualifier value)
+69280009,http://snomed.info/sct,Specialized physician
+840587001,http://snomed.info/sct,Aerospace medical service
+840584008,http://snomed.info/sct,Allied health student
+310070007,http://snomed.info/sct,Special care baby service
+310166001,http://snomed.info/sct,Trauma surgery service
+23278007,http://snomed.info/sct,Community health physician
+445313000,http://snomed.info/sct,Asthma nurse specialist (occupation)
+310090003,http://snomed.info/sct,Dietetics service
+789717003,http://snomed.info/sct,Pediatric cardiology service (qualifier value)
+310119000,http://snomed.info/sct,Liaison psychiatry service
+24331000087108,http://snomed.info/sct,Narcotic addiction service with chronic pain management
+224562001,http://snomed.info/sct,Pediatric nurse
+310167005,http://snomed.info/sct,Urology service
+896974005,http://snomed.info/sct,Transgender health service (qualifier value)
+21365001,http://snomed.info/sct,Specialized dentist
+310113004,http://snomed.info/sct,Hospital surgical fitting service
+310168000,http://snomed.info/sct,Vascular surgery service
+8724009,http://snomed.info/sct,Plastic surgeon
+62247001,http://snomed.info/sct,Family medicine specialist
+721941000,http://snomed.info/sct,Health psychologist (occupation)
+706900000,http://snomed.info/sct,Parasitology service
+309422009,http://snomed.info/sct,Community-based occupational therapist
+309322005,http://snomed.info/sct,Associate general practitioner
+789543004,http://snomed.info/sct,Ultrasonographer
+309343006,http://snomed.info/sct,Physician
+309423004,http://snomed.info/sct,Hospital occupational therapist
+788007007,http://snomed.info/sct,General practice service
+708184003,http://snomed.info/sct,Clinical pathology service (qualifier value)
+768836001,http://snomed.info/sct,Patient navigator
+24351000087104,http://snomed.info/sct,Pediatric chronic pain management service (qualifier value)
+159037006,http://snomed.info/sct,EEG technician
+4162009,http://snomed.info/sct,Dental assistant
+224567007,http://snomed.info/sct,Wound care nurse
+309348002,http://snomed.info/sct,Clinical neurophysiologist
+405623001,http://snomed.info/sct,Assigned practitioner (occupation)
+88189002,http://snomed.info/sct,Anesthesiologist
+310159002,http://snomed.info/sct,Neurosurgical service
+699478002,http://snomed.info/sct,Surgical oncology service (qualifier value)
+309452001,http://snomed.info/sct,Midwifery grade
+224563006,http://snomed.info/sct,Psychiatric nurse
+788008002,http://snomed.info/sct,Oral and maxillofacial surgery service
+310027007,http://snomed.info/sct,Mental health counseling service
+309337009,http://snomed.info/sct,Pain management specialist
+224622005,http://snomed.info/sct,Note taker
+302211009,http://snomed.info/sct,Specialist registrar
+26031000087100,http://snomed.info/sct,Pediatric nurse practitioner (occupation)
+768833009,http://snomed.info/sct,Discharging physician
+310139001,http://snomed.info/sct,Breast surgery service
+1234796008,http://snomed.info/sct,Community nursing service
+56545009,http://snomed.info/sct,Cardiovascular surgeon
+159141008,http://snomed.info/sct,Geneticist
+158986000,http://snomed.info/sct,Nursing administrator - professional body
+310109006,http://snomed.info/sct,Orthotics service
+310134006,http://snomed.info/sct,Social services
